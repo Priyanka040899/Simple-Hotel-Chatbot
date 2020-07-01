@@ -27,6 +27,21 @@
 - no way
 - not really
 
+## intent:inform
+- I need to book a room
+- I want to have my room cleared
+- I want to have my room cleaned
+
+## intent:FAQs
+- What are your check-in timings?
+- What are your check-out timings?
+- How do I cancel my reservation?
+- What is your cancellation policy?
+- Does the hotel have a restaurant?
+- Does the hotel offer breakfast?
+- What are the breakfast timings?
+- what are the timings of your restaurant?
+
 ## intent:mood_great
 - perfect
 - very good
